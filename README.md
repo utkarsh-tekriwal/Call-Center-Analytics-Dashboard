@@ -86,8 +86,8 @@ Call-Center-Analytics-Dashboard/
 ## 💡 Insights Gained
 
 - **Agent R03** leads in total amount collected and call handling.
-- **Cleveland** handles the most male callers.
-- **Monday** is the busiest day; **Wednesday** has peak calls.
+- **Cleveland** handles the most female callers.
+- **Saturday** is the busiest day.
 - **Customer satisfaction** is centered around rating 4.
 - High-value customers are spread across all cities and agents.
 
@@ -109,9 +109,3 @@ This project proves the ability to extract value from raw data and communicate i
 This project is licensed under the MIT License.
 
 ---
-
-## 👋 Connect with Me
-
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/utkarsh](#)  
-🌐 Portfolio: [Your Portfolio Link](#)
